@@ -1,0 +1,50 @@
+
+
+body {
+
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: rgba(247, 220, 111 );
+    background-image: url(../img/logo1.jpeg);
+    margin-top: 100px;
+    padding-left:35px;
+    padding-right: 35px;
+}
+.cuadro {
+
+    width: auto;
+    background-color: rgba(254, 249, 231 );
+    border-radius: 10px;
+    text-align: center;
+    font-family: cursive;
+    padding: 100px;
+}
+.boxx{
+    text-align: center;
+}
+.box{
+    background-color: rgba(254, 249, 231 ,.7);
+    border-radius: 70px;
+    padding: 50px;
+
+}
+
+.titulo{
+    color: black;
+    text-align: center;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+.boton{
+    text-align: center;
+    padding: 20px;
+}
+.alerta{
+    color:#171a1d ;
+    text-align: center;
+    font-family: cursive;
+
+}

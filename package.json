@@ -1,0 +1,23 @@
+{
+  "name": "prestamos-elemntos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon --ext js,hbs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "express": "^4.17.1",
+    "firebase-admin": "^9.0.0",
+    "handlebars": "^4.7.6",
+    "hapi": "^18.1.0",
+    "inert": "^5.1.3",
+    "joi": "^17.2.0",
+    "nodemon": "^2.0.4",
+    "vision": "^5.4.4"
+  }
+}
