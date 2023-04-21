@@ -12,7 +12,7 @@
   "dependencies": {
     "bcrypt": "^5.0.0",
     "express": "^4.17.1",
-    "firebase-admin": "^9.0.0",
+    "firebase-admin": "^11.7.0",
     "handlebars": "^4.7.6",
     "hapi": "^18.1.0",
     "inert": "^5.1.3",
